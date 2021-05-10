@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace EFNgApp.Models
+namespace CRUDAssignmentAPI.Models
 {
     public partial class TblCities
     {

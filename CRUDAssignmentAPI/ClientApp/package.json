@@ -1,11 +1,11 @@
 {
-  "name": "efngapp",
+  "name": "CRUDAssignmentAPI",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:ssr": "ng run EFNgApp:server:dev",
+    "build:ssr": "ng run CRUDAssignmentAPI:server:dev",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"

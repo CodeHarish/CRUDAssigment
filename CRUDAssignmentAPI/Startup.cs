@@ -1,6 +1,6 @@
-using EFNgApp.DataAccess;
-using EFNgApp.Interfaces;
-using EFNgApp.Models;
+using CRUDAssignmentAPI.DataAccess;
+using CRUDAssignmentAPI.Interfaces;
+using CRUDAssignmentAPI.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -10,7 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace EFNgApp
+namespace CRUDAssignmentAPI
 {
     public class Startup
     {

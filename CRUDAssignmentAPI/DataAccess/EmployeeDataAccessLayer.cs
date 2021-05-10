@@ -1,12 +1,12 @@
-﻿using EFNgApp.Interfaces;
-using EFNgApp.Models;
+﻿using CRUDAssignmentAPI.Interfaces;
+using CRUDAssignmentAPI.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace EFNgApp.DataAccess
+namespace CRUDAssignmentAPI.DataAccess
 {
     public class EmployeeDataAccessLayer : IEmployee
     {
